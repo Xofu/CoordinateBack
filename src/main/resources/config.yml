@@ -1,0 +1,6 @@
+#MESSAGES
+
+NOT_A_PLAYER: '&cYou need to be a player to execute this command'
+NO_PERMISSION: '&cYou do not have permission to execute this command'
+NO_DEATH: '&cYou do not have a stored death location'
+BACK: '&aYour latest death was located in the world &6%world% &aat X:&6%x% &aY:&6%y% &aZ:&6%z%'
